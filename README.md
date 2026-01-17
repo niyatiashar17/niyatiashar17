@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Niyati Ashar</h1>
-<h3 align="center">A passionate [Your Title/Role]</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 Here are some ideas to get you started:
 
