@@ -7,7 +7,9 @@
 - 📫 How to reach me: niyatiashar17@gmail.com
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: You will find me doing burpees during build time!
-##**Languages and Tools:**
+
+
+**Languages and Tools:**
 <p align="left">
   <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
