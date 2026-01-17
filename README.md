@@ -68,3 +68,16 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET" />
 </p>
+
+
+
+🏆 **Certifications**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+</p>
+AWS Certified Could Engineer - Practitioner
+
+Issued: August 2025 
+Credential ID: 21944a8ce00142d391ed4ccdba5d12ac
+Skills: Cloud Computing, Computer Engineering, Data Engineering
+View Credential | Credly Badge
