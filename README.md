@@ -77,7 +77,7 @@
 </p>
 AWS Certified Could Engineer - Practitioner
 
-Issued: August 2025 
-Credential ID: 21944a8ce00142d391ed4ccdba5d12ac
-Skills: Cloud Computing, Computer Engineering, Data Engineering
-View Credential | Credly Badge
+- Issued: August 2025 
+- Credential ID: 21944a8ce00142d391ed4ccdba5d12ac
+- Skills: Cloud Computing, Computer Engineering, Data Engineering
+- View Credential | Credly Badge
