@@ -4,6 +4,10 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
+
+
+![](https://komarev.com/ghpvc/?username=niyatiashar17)
+
 - 📫 How to reach me: niyatiashar17@gmail.com
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: You will find me doing burpees during build time!
