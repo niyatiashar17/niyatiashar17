@@ -6,7 +6,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=niyatiashar17)
+
 
 - 📫 How to reach me: niyatiashar17@gmail.com
 - 😄 Pronouns:  she/her
